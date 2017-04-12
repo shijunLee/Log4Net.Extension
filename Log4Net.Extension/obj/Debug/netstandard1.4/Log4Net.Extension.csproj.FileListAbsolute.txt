@@ -1,0 +1,7 @@
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\bin\Debug\netstandard1.4\Log4Net.Extension.deps.json
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\bin\Debug\netstandard1.4\Log4Net.Extension.dll
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\obj\Debug\netstandard1.4\Log4Net.Extension.csprojResolveAssemblyReference.cache
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\obj\Debug\netstandard1.4\Log4Net.Extension.AssemblyInfo.cs
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\bin\Debug\netstandard1.4\Log4Net.Extension.pdb
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\obj\Debug\netstandard1.4\Log4Net.Extension.dll
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension\obj\Debug\netstandard1.4\Log4Net.Extension.pdb

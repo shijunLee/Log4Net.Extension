@@ -1,0 +1,11 @@
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.Web.deps.json
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.Web.runtimeconfig.json
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.Web.runtimeconfig.dev.json
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.Web.dll
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.Web.pdb
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.dll
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\bin\Debug\netcoreapp1.1\Log4Net.Extension.pdb
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\obj\Debug\netcoreapp1.1\Log4Net.Extension.Web.csprojResolveAssemblyReference.cache
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\obj\Debug\netcoreapp1.1\Log4Net.Extension.Web.AssemblyInfo.cs
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\obj\Debug\netcoreapp1.1\Log4Net.Extension.Web.dll
+F:\C#ProjectCode\github\Log4NetExtension\Log4Net.Extension\Log4Net.Extension.Web\obj\Debug\netcoreapp1.1\Log4Net.Extension.Web.pdb
